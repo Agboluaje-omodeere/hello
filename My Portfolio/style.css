@@ -1,0 +1,53 @@
+.your {
+    background-color:rgb(244,244,244) ;
+    padding: 50px;
+}
+img {
+    align-items: center;
+    justify-content: center;
+    height: 100px;
+    display: flex;
+    margin: auto;
+}
+.name {
+    text-align: center;
+    font-weight: 100;
+    font-family: sans-serif;
+}
+.developer {
+    text-align: center;
+    font-family: sans-serif;
+}
+
+/*begiining fo about div*/
+
+.about {
+    background-color: rgb(233,233,233);
+    padding: 10px;
+    margin-left: 15px;
+    font-family: sans-serif;
+}
+/*beginning of work div*/
+.work {
+    background-color: rgb(233,233,233);
+    font-family: sans-serif;
+    margin-left: 15px;
+    
+}
+.grid-container {
+    display: flex;
+    padding: 20px;
+    margin: 5px;
+}
+.grid-item {
+    padding: 60px;
+    margin: 7px;
+    border-style: groove;
+}
+footer {
+    background-color: rgb(244,244,244);
+    text-align: center;
+    padding: 20px;
+    margin: 5px;
+    font-family: sans-serif;
+}
